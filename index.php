@@ -4,5 +4,6 @@
 	$variable = "test";
 	echo $variable;
 
+
 	get_footer();
 ?>

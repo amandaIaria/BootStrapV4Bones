@@ -1,4 +1,4 @@
+@import '_vendor-imports/bootstrap';
+
 @import '_partials/variables';
-body {
-	background-color: $red;
-}
+@import '_partials/overrides';
