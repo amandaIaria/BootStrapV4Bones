@@ -17,3 +17,8 @@ bin-release/
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
+
+# no vendor files. You will need to do an init to download these.
+assets/vendor
+node_modules
+.sass-cache
